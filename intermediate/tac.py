@@ -4,6 +4,8 @@ Integrar sus extensiones personales cuando corresponda.
 Formato de instrucción: (operacion, argumento1, argumento2, destino).
 Los temporales internos comienzan con @t y las etiquetas con @L para evitar
 colisiones con nombres de variables permitidos por el lexer base.
+
+
 """
 from typing import List, Tuple, Optional
 from arbol_ast.nodos import (
