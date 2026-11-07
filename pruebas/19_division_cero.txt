@@ -1,0 +1,3 @@
+entero x = 10;
+entero y = 0;
+imprimir(x / y);

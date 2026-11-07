@@ -1,0 +1,4 @@
+entero x = 1;
+mientras (x == 1) {
+    imprimir(x);
+}

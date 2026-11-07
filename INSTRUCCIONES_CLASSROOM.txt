@@ -1,0 +1,12 @@
+ENTREGA FINAL - COMPILADOR INCREMENTAL (TAC + MÁQUINA VIRTUAL)
+
+Objetivo: integrar las últimas dos fases para generar y ejecutar instrucciones desde el AST validado.
+
+1. Completar los 5 métodos TODO de intermediate/tac.py.
+2. Completar los 4 métodos TODO de vm/maquina_virtual.py.
+3. Mantener lexer, parser, AST y semántica de las entregas anteriores.
+4. Integrar y demostrar las funcionalidades personales en TAC y VM cuando sea necesario.
+5. Ejecutar pruebas y documentar resultados correctos, errores y salidas.
+
+ENTREGABLE: enlace al repositorio GitHub actualizado. README con comandos, archivos de prueba, TAC, salida de VM y evidencia de la extensión individual.
+No se requiere interfaz gráfica.
